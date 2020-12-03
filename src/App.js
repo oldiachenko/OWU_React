@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
-// import AllUsersComponent from "./Components/AllUsers/AllUsersComponent";
-import AllPostsComponent from "./Components/Posts/AllPostsComponent";
+
 
 
 class App extends Component {
@@ -10,8 +9,7 @@ class App extends Component {
 
         return (
           <div>
-                {/*<AllUsersComponent/>*/}
-                <AllPostsComponent/>
+
           </div>
         );
     }
